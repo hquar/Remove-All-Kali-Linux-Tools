@@ -132,6 +132,7 @@ printf 'y' |sudo apt remove zaproxy
 printf 'y' |sudo apt remove freerdp2-x11
 printf 'y' |sudo apt remove scalpel
 printf 'y' |sudo apt remove spiderfoot
+printf 'y' |sudo apt remove crackmapexec
 printf 'y' |sudo apt autoclean 
 printf 'y' |sudo apt autoremove
 printf 'y' |sudo apt update 
