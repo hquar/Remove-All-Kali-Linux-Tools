@@ -1,5 +1,5 @@
 # Remove All Kali Linux Tools
-The scripts removes/uninstalls all the hacking tools or any tool installed in Kali Linux
+The scripts removes/un-installs all the hacking tools or any Meta tool installed by Kali Linux
 
 
 # How to Use This Script
@@ -11,4 +11,4 @@ The scripts removes/uninstalls all the hacking tools or any tool installed in Ka
   > chmod +x uninstall.sh
 7. Run the following command:
   > bash ./uninstall.sh
-8. The script will take a some time to remove all the tools
+8. The script will take some time to remove all the tools.
